@@ -8,8 +8,14 @@
 
 <details>
   <summary>:bar_chart: GitHub Stats</summary>
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinog&hide=html&layout=compact" /></td>
-  <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=thinog&show_icons=true" /></td>
+  <center>
+    <table >
+      <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinog&hide=html&layout=compact" /></td>
+        <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=thinog&show_icons=true" /></td>
+      </tr>  
+    </table>
+  </center>
 </details>
 
 [linkedin]: https://www.linkedin.com/in/thiago-nmartins/

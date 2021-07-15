@@ -5,7 +5,7 @@
 - :dancers: Procurando projetos legais pra colaborar
 - :mailbox: Como falar comigo: chama lá no meu [LinkedIn][linkedin]
 - :zap: Fun fact: async parrot <img alt="async parrot" width="26px" src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" />
-<!--
+
 <details>
   <summary>:bar_chart: GitHub Stats</summary>
   <center>
@@ -17,5 +17,5 @@
     </table>
   </center>
 </details>
--->
+
 [linkedin]: https://www.linkedin.com/in/thiago-nmartins/

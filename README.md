@@ -1,6 +1,6 @@
 ### Eae, rapaziada! Sou o Thiago! 🤙
 
-- :computer: Atualmente trabalho mais com a stack .NET e AWS, mas aprendo e mexo no que precisar haha.
+- :computer: Atualmente trabalho mais com a stack ~~.NET~~ e AWS, mas aprendo e mexo no que precisar haha.
 - :seedling: Estou aprofundando meus conhecimentos em cloud e estudando outras linguagens, paradigmas e arquitetura de software
 - :dancers: Procurando projetos legais pra colaborar
 - :mailbox: Como falar comigo: chama lá no meu [LinkedIn][linkedin]

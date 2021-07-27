@@ -11,7 +11,7 @@
   <center>
     <table >
       <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinog&hide=html&theme=radical&layout=compact" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinog&hide=html&theme=radical&layout=compact&langs_count=7" /></td>
         <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=thinog&show_icons=true&theme=radical" /></td>
       </tr>  
     </table>
